@@ -1,6 +1,8 @@
 
 # 운동메이트를 찾아주는 앱 서비스
-![스크린샷 2025-01-21 오후 12 37 02](https://github.com/user-attachments/assets/7b8851f9-a8ef-4b12-ba4e-d13388586206)
+
+![image](https://github.com/user-attachments/assets/9e497b3e-f05c-4ab7-b11e-17a5861d1ce7)
+![image](https://github.com/user-attachments/assets/43c1bf51-fe8f-49ad-9cea-aeb18bd2efd0)
 
 ## 📎 Healf-HealthFriends
 
